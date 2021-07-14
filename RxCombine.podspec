@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = "RxCombine"
-    s.version          = "1.6.1"
+    s.version          = "1.6.2"
     s.summary          = "RxSwift is a Swift implementation of Reactive Extensions"
     s.description      = <<-DESC
   Bi-directional type conversions between RxSwift and Apple's Combine framework.
